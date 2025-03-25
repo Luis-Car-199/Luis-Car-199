@@ -1,7 +1,11 @@
-# HOLA 
-Keepcoding:
+# 🚀 Transición al mundo del análisis de datos  
 
-  - Matematicas: https://github.com/Luis-Car-199/BOOT_BIG_DATA_LC/tree/65c87aa1fcddd6744ea7d6efc95da0ac1a9c8d94/Algebra_Estadistica
+Dando un giro hacia el mundo del **análisis de datos** con muchas ganas de aprender y crecer en este campo. Actualmente estoy completando un **Bootcamp en Big Data, Machine Learning e Inteligencia Artificial**. 📊  
 
-  - SQL-DW: https://github.com/Luis-Car-199/BOOT_BIG_DATA_LC/tree/65c87aa1fcddd6744ea7d6efc95da0ac1a9c8d94/SQL_DW 
+💼 Durante mi trayectoria en el **sector inmobiliario**, desarrollé habilidades comerciales clave como **negociación, estrategia de ventas, identificación de oportunidades y toma de decisiones**. Ahora quiero combinar esa experiencia con el análisis de datos para aportar valor desde otro enfoque.  
+
+### 🎯 Objetivo  
+🔍 Busco una oportunidad como **Analista de Datos en prácticas** para aplicar lo que estoy aprendiendo, desarrollar nuevas habilidades y seguir creciendo en este apasionante mundo.  
+😊  
+
   
