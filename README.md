@@ -8,6 +8,54 @@ Dando un giro hacia el mundo del **análisis de datos** con muchas ganas de apre
 🔍 Busco una oportunidad como **Analista de Datos en prácticas** para aplicar lo que estoy aprendiendo, desarrollar nuevas habilidades y seguir creciendo en este apasionante mundo.  
 😊  
 
+## 🛠️ Habilidades y Competencias  
+
+- 🎯 **Fidelización de clientes / Actitud servicial**  
+- 📊 **Trabajo bajo objetivos y KPIs**  
+- 🔍 **Detección de oportunidades**  
+- 🏢 **Operatividad de negocio**  
+- 🧩 **Resolución de problemas**  
+- 💡 **Identificación de nuevas oportunidades de negocio**  
+- ⏳ **Gestión del tiempo**  
+- 🤝 **Trabajo en equipo**  
+- 🚀 **Proactividad**
+
+## 💼 Experiencia Profesional  
+
+### 📊 Analista de Datos | *Keepcoding* (2024 - Actualidad)  
+- 🛠 **SQL avanzado, ETL y DataWarehouse:** PostgreSQL, BigQuery  
+- 📊 **Exploración y visualización de datos:** Power BI  
+- ☁ **Arquitectura Big Data:** Google Cloud (Clustering), Hadoop, Spark  
+- ⚙ **Procesamiento de datos:** Scala/Spark  
+
+### 🏢 Comercial de Ventas | *Decathlon S.A.* (Mayo 2022 - Marzo 2024)  
+- 🎯 **Orientación a resultados y KPIs**  
+- 🎯 **Establecimiento de metas y análisis de rendimiento**  
+- 📊 **Toma de decisiones basada en datos**  
+
+### 🏢 Director | *Intext Real Estate, Madrid* (Julio 2020 - Mayo 2023)  
+- 📈 **Estrategia de negocio y desarrollo de clientes**  
+- 👥 **Gestión y liderazgo de equipos**  
+- 💡 **Innovación en procesos y estrategias de mercado**  
+- 💰 **Gestión financiera y presupuestaria**  
+
+### 🏠 Asesor Inmobiliario | *Estudio Las Ciudades S.L.* (Julio 2017 - Mayo 2020)  
+- 🤝 **Sólidas habilidades de negociación y cierre**  
+- 📊 **Gerencia y liderazgo de equipos**  
+- 🚀 **Estrategias de marketing y gestión de cartera de clientes**  
+
+
+## 🎓 Formación Académica  
+
+- **🚀 Bootcamp en Big Data, Machine Learning e IA**  
+  📍 *Keepcoding* | *2024 - Actualidad*  
+
+- **🔧 Ingeniería Industrial en Mecánica**  
+  📍 *Universidad de Valladolid* | *2013 - 2017*  
+
+- **📚 Bachillerato Tecnológico**  
+  📍 *Instituto Jorge Manrique* | *2011 - 2013*  
+
   ## 📌 Proyectos Destacados
 
   Power BI: https://github.com/Luis-Car-199/BOOT_BIG_DATA_LC/tree/c5929e67a3033fdd5443af522604aac97766c43b/Power%20BI
