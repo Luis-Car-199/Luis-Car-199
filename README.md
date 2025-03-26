@@ -8,4 +8,10 @@ Dando un giro hacia el mundo del **análisis de datos** con muchas ganas de apre
 🔍 Busco una oportunidad como **Analista de Datos en prácticas** para aplicar lo que estoy aprendiendo, desarrollar nuevas habilidades y seguir creciendo en este apasionante mundo.  
 😊  
 
-  
+  ## 📌 Proyectos Destacados
+
+  Power BI: https://github.com/Luis-Car-199/BOOT_BIG_DATA_LC/tree/c5929e67a3033fdd5443af522604aac97766c43b/Power%20BI
+
+  SQL: (BigQuery) https://github.com/Luis-Car-199/BOOT_BIG_DATA_LC/tree/c5929e67a3033fdd5443af522604aac97766c43b/SQL_DW
+
+  Arquitectura de datos: https://github.com/Luis-Car-199/BOOT_BIG_DATA_LC/tree/c5929e67a3033fdd5443af522604aac97766c43b/Arquitectura%20de%20datos
