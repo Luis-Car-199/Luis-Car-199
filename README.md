@@ -6,13 +6,12 @@ Dando un giro hacia el mundo del **análisis de datos** con muchas ganas de apre
 
 ### 🎯 Objetivo  
 🔍 Busco una oportunidad como **Analista de Datos en prácticas** para aplicar lo que estoy aprendiendo, desarrollar nuevas habilidades y seguir creciendo en este apasionante mundo.  
-
 ## 🚀 Aptitudes & 🛠️ Herramientas  
 
 <div style="display: flex; justify-content: space-between;">
 
   <div style="width: 45%;">
-    <h3>🧩 Aptitudes</h3>
+    <h3 style="text-align: center;">🧩 Aptitudes</h3>
     <ul>
       <li>✅ Fidelización de clientes / Actitud servicial</li>
       <li>🎯 Trabajo bajo objetivos y KPIs</li>
@@ -27,12 +26,19 @@ Dando un giro hacia el mundo del **análisis de datos** con muchas ganas de apre
   </div>
 
   <div style="width: 45%;">
-    <h3>🔧 Herramientas</h3>
+    <h3 style="text-align: center;">🔧 Herramientas</h3>
     <ul>
-      <li>🛢
+      <li>🛢 SQL</li>
+      <li>🐍 Python</li>
+      <li>🔗 Git</li>
+      <li>📊 Power BI</li>
+      <li>☁ Google Cloud</li>
+      <li>⚡ Apache Hadoop</li>
+      <li>🚀 Scala / Spark</li>
+    </ul>
+  </div>
 
-
-
+</div>
 
 
 ## 💼 Experiencia Profesional  
