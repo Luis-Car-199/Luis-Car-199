@@ -7,19 +7,20 @@ Dando un giro hacia el mundo del **análisis de datos** con muchas ganas de apre
 ### 🎯 Objetivo  
 🔍 Busco una oportunidad como **Analista de Datos en prácticas** para aplicar lo que estoy aprendiendo, desarrollar nuevas habilidades y seguir creciendo en este apasionante mundo.  
 
-
-## 🚀 Habilidades & 🛠️ Herramientas  
+## 🚀 Aptitudes & 🛠️ Herramientas  
 
 <div style="display: flex; justify-content: space-between;">
 
   <div style="width: 45%;">
-    <h3>🧩 Habilidades</h3>
+    <h3>🧩 Aptitudes</h3>
     <ul>
-      <li>✅ Fidelización de clientes</li>
-      <li>🎯 Trabajo con KPIs</li>
+      <li>✅ Fidelización de clientes / Actitud servicial</li>
+      <li>🎯 Trabajo bajo objetivos y KPIs</li>
       <li>🔍 Detección de oportunidades</li>
       <li>🏢 Operatividad de negocio</li>
       <li>🧩 Resolución de problemas</li>
+      <li>💡 Identificación de nuevas oportunidades de negocio</li>
+      <li>⏳ Gestión del tiempo</li>
       <li>🤝 Trabajo en equipo</li>
       <li>🚀 Proactividad</li>
     </ul>
@@ -28,16 +29,7 @@ Dando un giro hacia el mundo del **análisis de datos** con muchas ganas de apre
   <div style="width: 45%;">
     <h3>🔧 Herramientas</h3>
     <ul>
-      <li>🛢 SQL, PostgreSQL</li>
-      <li>🐍 Python</li>
-      <li>📊 Power BI</li>
-      <li>☁ Google Cloud</li>
-      <li>⚡ Hadoop, Spark</li>
-      <li>🔗 Git</li>
-    </ul>
-  </div>
-
-</div>
+      <li>🛢
 
 
 
@@ -68,6 +60,8 @@ Dando un giro hacia el mundo del **análisis de datos** con muchas ganas de apre
 - 🚀 **Estrategias de marketing y gestión de cartera de clientes**  
 
 
+
+
 ## 🎓 Formación Académica  
 
 - **🚀 Bootcamp en Big Data, Machine Learning e IA**  
@@ -79,10 +73,13 @@ Dando un giro hacia el mundo del **análisis de datos** con muchas ganas de apre
 - **📚 Bachillerato Tecnológico**  
   📍 *Instituto Jorge Manrique* | *2011 - 2013*  
 
-  ## 📌 Proyectos Destacados
 
-  Power BI: https://github.com/Luis-Car-199/BOOT_BIG_DATA_LC/tree/c5929e67a3033fdd5443af522604aac97766c43b/Power%20BI
 
-  SQL: (BigQuery) https://github.com/Luis-Car-199/BOOT_BIG_DATA_LC/tree/c5929e67a3033fdd5443af522604aac97766c43b/SQL_DW
 
-  Arquitectura de datos: https://github.com/Luis-Car-199/BOOT_BIG_DATA_LC/tree/c5929e67a3033fdd5443af522604aac97766c43b/Arquitectura%20de%20datos
+## 📌 Proyectos Destacados
+
+Power BI: https://github.com/Luis-Car-199/BOOT_BIG_DATA_LC/tree/c5929e67a3033fdd5443af522604aac97766c43b/Power%20BI
+
+SQL: (BigQuery) https://github.com/Luis-Car-199/BOOT_BIG_DATA_LC/tree/c5929e67a3033fdd5443af522604aac97766c43b/SQL_DW
+
+Arquitectura de datos: https://github.com/Luis-Car-199/BOOT_BIG_DATA_LC/tree/c5929e67a3033fdd5443af522604aac97766c43b/Arquitectura%20de%20datos
