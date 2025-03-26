@@ -6,19 +6,22 @@ Dando un giro hacia el mundo del **análisis de datos** con muchas ganas de apre
 
 ### 🎯 Objetivo  
 🔍 Busco una oportunidad como **Analista de Datos en prácticas** para aplicar lo que estoy aprendiendo, desarrollar nuevas habilidades y seguir creciendo en este apasionante mundo.  
-😊  
 
-## 🛠️ Habilidades y Competencias  
 
-- 🎯 **Fidelización de clientes / Actitud servicial**  
-- 📊 **Trabajo bajo objetivos y KPIs**  
-- 🔍 **Detección de oportunidades**  
-- 🏢 **Operatividad de negocio**  
-- 🧩 **Resolución de problemas**  
-- 💡 **Identificación de nuevas oportunidades de negocio**  
-- ⏳ **Gestión del tiempo**  
-- 🤝 **Trabajo en equipo**  
-- 🚀 **Proactividad**
+
+
+## 🛠️ Herramientas y Tecnologías                            ## 🛠️ Habilidades y Competencias 
+
+- 🛢 **Bases de Datos & ETL:** SQL, PostgreSQL               - 🎯 **Fidelización de clientes / Actitud servicial**
+- 🐍 **Lenguajes de Programación:** Python, Scala           - 📊 **Trabajo bajo objetivos y KPIs**  
+- 📊 **Visualización de Datos:** Power BI                   - 🔍 **Detección de oportunidades**  
+- ☁ **Cloud Computing:** Google Cloud                       - 🏢 **Operatividad de negocio**  
+- ⚡ **Big Data & Procesamiento:** Apache Hadoop, Spark      - 🧩 **Resolución de problemas**  
+- 🔗 **Control de Versiones:** Git                          - 💡 **Identificación de nuevas oportunidades de negocio**  
+                                                            - ⏳ **Gestión del tiempo**  
+                                                            - 🤝 **Trabajo en equipo**  
+                                                            - 🚀 **Proactividad**                 
+
 
 ## 💼 Experiencia Profesional  
 
