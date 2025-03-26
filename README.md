@@ -28,13 +28,13 @@ Dando un giro hacia el mundo del **análisis de datos** con muchas ganas de apre
   <div style="width: 45%;">
     <h3 style="text-align: center;">🔧 Herramientas</h3>
     <ul>
-      <li>🛢 SQL</li>
-      <li>🐍 Python</li>
-      <li>🔗 Git</li>
-      <li>📊 Power BI</li>
-      <li>☁ Google Cloud</li>
-      <li>⚡ Apache Hadoop</li>
-      <li>🚀 Scala / Spark</li>
+      <li> SQL</li>
+      <li> Python</li>
+      <li> Git</li>
+      <li> Power BI</li>
+      <li> Google Cloud</li>
+      <li> Apache Hadoop</li>
+      <li> Scala / Spark</li>
     </ul>
   </div>
 
