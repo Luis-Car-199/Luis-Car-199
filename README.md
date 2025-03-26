@@ -43,27 +43,27 @@ Dando un giro hacia el mundo del **análisis de datos** con muchas ganas de apre
 
 ## 💼 Experiencia Profesional  
 
-### 📊 Analista de Datos | *Keepcoding* (2024 - Actualidad)  
-- 🛠 **SQL avanzado, ETL y DataWarehouse:** PostgreSQL, BigQuery  
-- 📊 **Exploración y visualización de datos:** Power BI  
-- ☁ **Arquitectura Big Data:** Google Cloud (Clustering), Hadoop, Spark  
-- ⚙ **Procesamiento de datos:** Scala/Spark  
+#### 📊 Analista de Datos | *Keepcoding* (2024 - Actualidad)  
+- **SQL avanzado, ETL y DataWarehouse:** PostgreSQL, BigQuery  
+- **Exploración y visualización de datos:** Power BI  
+- **Arquitectura Big Data:** Google Cloud (Clustering), Hadoop, Spark  
+- **Procesamiento de datos:** Scala/Spark  
 
-### 🏢 Comercial de Ventas | *Decathlon S.A.* (Mayo 2022 - Marzo 2024)  
-- 🎯 **Orientación a resultados y KPIs**  
-- 🎯 **Establecimiento de metas y análisis de rendimiento**  
-- 📊 **Toma de decisiones basada en datos**  
+#### 🏢 Comercial de Ventas | *Decathlon S.A.* (Mayo 2022 - Marzo 2024)  
+- **Orientación a resultados y KPIs**  
+- **Establecimiento de metas y análisis de rendimiento**  
+- **Toma de decisiones basada en datos**  
 
-### 🏢 Director | *Intext Real Estate, Madrid* (Julio 2020 - Mayo 2023)  
-- 📈 **Estrategia de negocio y desarrollo de clientes**  
-- 👥 **Gestión y liderazgo de equipos**  
-- 💡 **Innovación en procesos y estrategias de mercado**  
-- 💰 **Gestión financiera y presupuestaria**  
+#### 🏢 Director | *Intext Real Estate, Madrid* (Julio 2020 - Mayo 2023)  
+- **Estrategia de negocio y desarrollo de clientes**  
+- **Gestión y liderazgo de equipos**  
+- **Innovación en procesos y estrategias de mercado**  
+- **Gestión financiera y presupuestaria**  
 
-### 🏠 Asesor Inmobiliario | *Estudio Las Ciudades S.L.* (Julio 2017 - Mayo 2020)  
-- 🤝 **Sólidas habilidades de negociación y cierre**  
-- 📊 **Gerencia y liderazgo de equipos**  
-- 🚀 **Estrategias de marketing y gestión de cartera de clientes**  
+#### 🏠 Asesor Inmobiliario | *Estudio Las Ciudades S.L.* (Julio 2017 - Mayo 2020)  
+- **Sólidas habilidades de negociación y cierre**  
+- **Gerencia y liderazgo de equipos**  
+- **Estrategias de marketing y gestión de cartera de clientes**  
 
 
 
