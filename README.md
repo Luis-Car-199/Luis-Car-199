@@ -7,40 +7,38 @@ Dando un giro hacia el mundo del **análisis de datos** con muchas ganas de apre
 ### 🎯 Objetivo  
 🔍 Busco una oportunidad como **Analista de Datos en prácticas** para aplicar lo que estoy aprendiendo, desarrollar nuevas habilidades y seguir creciendo en este apasionante mundo.  
 
+
 ## 🚀 Habilidades & 🛠️ Herramientas  
 
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>🧩 Habilidades</strong></td>
-      <td><strong>🔧 Herramientas</strong></td>
-    </tr>
-    <tr>
-      <td>✅ Fidelización de clientes</td>
-      <td>🛢 SQL, PostgreSQL</td>
-    </tr>
-    <tr>
-      <td>🎯 Trabajo con KPIs</td>
-      <td>🐍 Python</td>
-    </tr>
-    <tr>
-      <td>🔍 Detección de oportunidades</td>
-      <td>📊 Power BI</td>
-    </tr>
-    <tr>
-      <td>🏢 Operatividad de negocio</td>
-      <td>☁ Google Cloud</td>
-    </tr>
-    <tr>
-      <td>🧩 Resolución de problemas</td>
-      <td>⚡ Hadoop, Spark</td>
-    </tr>
-    <tr>
-      <td>🤝 Trabajo en equipo</td>
-      <td>🔗 Git</td>
-    </tr>
-  </table>
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="width: 45%;">
+    <h3>🧩 Habilidades</h3>
+    <ul>
+      <li>✅ Fidelización de clientes</li>
+      <li>🎯 Trabajo con KPIs</li>
+      <li>🔍 Detección de oportunidades</li>
+      <li>🏢 Operatividad de negocio</li>
+      <li>🧩 Resolución de problemas</li>
+      <li>🤝 Trabajo en equipo</li>
+      <li>🚀 Proactividad</li>
+    </ul>
+  </div>
+
+  <div style="width: 45%;">
+    <h3>🔧 Herramientas</h3>
+    <ul>
+      <li>🛢 SQL, PostgreSQL</li>
+      <li>🐍 Python</li>
+      <li>📊 Power BI</li>
+      <li>☁ Google Cloud</li>
+      <li>⚡ Hadoop, Spark</li>
+      <li>🔗 Git</li>
+    </ul>
+  </div>
+
 </div>
+
 
 
 
