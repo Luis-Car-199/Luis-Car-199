@@ -9,18 +9,17 @@ Dando un giro hacia el mundo del **análisis de datos** con muchas ganas de apre
 
 
 
+## 🚀 Habilidades & 🛠️ Herramientas  
 
-## 🛠️ Herramientas y Tecnologías                            ## 🛠️ Habilidades y Competencias 
+| 🧩 Habilidades                 | 🔧 Herramientas             |
+|--------------------------------|----------------------------|
+| ✅ Fidelización de clientes    | 🛢 SQL, PostgreSQL         |
+| 🎯 Trabajo con KPIs            | 🐍 Python                  |
+| 🔍 Detección de oportunidades  | 📊 Power BI                |
+| 🏢 Operatividad de negocio      | ☁ Google Cloud            |
+| 🧩 Resolución de problemas      | ⚡ Hadoop, Spark           |
+| 🤝 Trabajo en equipo            | 🔗 Git                     |
 
-- 🛢 **Bases de Datos & ETL:** SQL, PostgreSQL               - 🎯 **Fidelización de clientes / Actitud servicial**
-- 🐍 **Lenguajes de Programación:** Python, Scala           - 📊 **Trabajo bajo objetivos y KPIs**  
-- 📊 **Visualización de Datos:** Power BI                   - 🔍 **Detección de oportunidades**  
-- ☁ **Cloud Computing:** Google Cloud                       - 🏢 **Operatividad de negocio**  
-- ⚡ **Big Data & Procesamiento:** Apache Hadoop, Spark      - 🧩 **Resolución de problemas**  
-- 🔗 **Control de Versiones:** Git                          - 💡 **Identificación de nuevas oportunidades de negocio**  
-                                                            - ⏳ **Gestión del tiempo**  
-                                                            - 🤝 **Trabajo en equipo**  
-                                                            - 🚀 **Proactividad**                 
 
 
 ## 💼 Experiencia Profesional  
